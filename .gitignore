@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+scans/
+
+ollama/models/
+ollama/models/.gitkeep
+
